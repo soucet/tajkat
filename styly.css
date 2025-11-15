@@ -1,8 +1,9 @@
 BODY {
 	text-align : justify;
-	margin : 2em 4em 0px 4em;
+	margin: 2em auto 0 auto;
 	background: url(poz.gif);
 	font-family: 'Book Antiqua',serif;
+	max-width: 950px;
 }
 SUP  {
 	margin-left: 1px;
@@ -39,4 +40,5 @@ A:hover.b {
 }
 .x  {
 	text-indent: 0;
+
 }
